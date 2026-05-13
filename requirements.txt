@@ -1,0 +1,13 @@
+fastapi==0.136.1
+imbalanced-learn==0.14.1
+joblib==1.5.3
+matplotlib==3.10.9
+numpy==2.4.4
+pandas==3.0.2
+pydantic==2.13.3
+pydantic_core==2.46.3
+python-dateutil==2.9.0.post0
+scikit-learn==1.8.0
+scipy==1.17.1
+sklearn-compat==0.1.5
+uvicorn==0.46.0
