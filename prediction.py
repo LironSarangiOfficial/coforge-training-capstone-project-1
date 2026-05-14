@@ -16,6 +16,6 @@ def predict(data: dict):
     probability = model.predict_proba(input_scaled)[0][1]
 
     return {
-        "prediction": int(prediction),
+        "prediction": int(prediction[0]),
         "probability": float(probability)
     }
